@@ -117,3 +117,8 @@ The **AI Study Companion Mobile Application** is an intelligent learning platfor
 
 The prototype demonstrates an innovative AI-driven educational solution that integrates intelligent tutoring, planning, and progress tracking into a single mobile application. By providing personalized support and efficient study management, the AI Study Companion aims to make learning more structured, engaging, and effective for students.
 
+
+
+LUCID CHART SHAREABLE LINK
+
+https://lucid.app/lucidchart/37ff9b07-a79d-4545-a1d4-4b4d15420a5b/edit?viewport_loc=-2409%2C424%2C5718%2C2591%2C0_0&invitationId=inv_066772b0-5ee0-4185-8cf8-3723c242fc13
